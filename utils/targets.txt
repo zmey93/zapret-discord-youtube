@@ -6,6 +6,10 @@
 #
 # Keys must be a single word (letters/digits/underscore), because the
 # script parses them as simple identifiers. You can add or remove lines.
+#
+# Note: steamcontent.com and steamstatic.com removed — these are Valve/Akamai/Fastly
+# CDN nodes that globally block ICMP and reject direct TLS without proper Host header.
+# They always show SSL+Timeout regardless of network/VPN and are not useful test targets.
 
 ### Discord
 DiscordMain           = "https://discord.com"
@@ -35,8 +39,7 @@ CloudflareStatus      = "https://cloudflarestatus.com"
 ### Steam
 SteamPowered          = "https://steampowered.com"
 SteamCommunity        = "https://steamcommunity.com"
-SteamContent          = "https://steamcontent.com"
-SteamStatic           = "https://steamstatic.com"
+# SteamContent and SteamStatic removed — CDN globally blocks ICMP + direct TLS
 
 ### Twitch / Streaming extras
 BetterTTV             = "https://betterttv.net"
