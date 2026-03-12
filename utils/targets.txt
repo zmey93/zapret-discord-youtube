@@ -12,6 +12,8 @@ DiscordMain           = "https://discord.com"
 DiscordGateway        = "https://gateway.discord.gg"
 DiscordCDN            = "https://cdn.discordapp.com"
 DiscordUpdates        = "https://updates.discord.com"
+DiscordApp            = "https://discordapp.com"
+DiscordStatus         = "https://discordstatus.com"
 
 ### YouTube
 YouTubeWeb            = "https://www.youtube.com"
@@ -26,6 +28,29 @@ GoogleGstatic         = "https://www.gstatic.com"
 ### Cloudflare
 CloudflareWeb         = "https://www.cloudflare.com"
 CloudflareCDN         = "https://cdnjs.cloudflare.com"
+CloudflareECH         = "https://cloudflare-ech.com"
+CloudflareStream      = "https://cloudflarestream.com"
+CloudflareStatus      = "https://cloudflarestatus.com"
+
+### Steam
+SteamPowered          = "https://steampowered.com"
+SteamCommunity        = "https://steamcommunity.com"
+SteamContent          = "https://steamcontent.com"
+SteamStatic           = "https://steamstatic.com"
+
+### Twitch / Streaming extras
+BetterTTV             = "https://betterttv.net"
+7tvApp                = "https://7tv.app"
+
+### Games
+EscapeFromTarkov      = "https://escapefromtarkov.com"
+BattlEye              = "https://battleye.com"
+
+### Tools / Other
+AnyDesk               = "https://anydesk.com"
+Speedtest             = "https://speedtest.net"
+DNSLeakTest           = "https://dnsleaktest.com"
+BrowserLeaks          = "https://browserleaks.com"
 
 ### Public DNS (PING-only)
 CloudflareDNS1111     = "PING:1.1.1.1"
