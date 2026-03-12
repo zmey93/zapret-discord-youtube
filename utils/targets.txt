@@ -47,7 +47,6 @@ BetterTTV             = "https://betterttv.net"
 
 ### Games
 EscapeFromTarkov      = "https://escapefromtarkov.com"
-EscapeFromTarkov_serv = "eft-project.com"
 BattlEye              = "https://battleye.com"
 
 ### Tools / Other
