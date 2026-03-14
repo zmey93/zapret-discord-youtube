@@ -48,3 +48,4 @@ happ-proxy.com
 speedtest.net
 browserleaks.com
 th.gl
+freakhosting.com
